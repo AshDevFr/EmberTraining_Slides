@@ -1,4 +1,4 @@
-# talk-ember
+# Ember Training
 
 ## Description
 
